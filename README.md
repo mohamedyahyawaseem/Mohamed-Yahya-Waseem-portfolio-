@@ -41,7 +41,10 @@
   Sethu Institute of Technology, 2023  
 
 - 🖥 *Diploma in Computer Applications*  
-  Trees Academy, 2024  
+  Trees Academy, 2023  
+
+- 📜 *Certified Data Analyst Course*  
+  Besant Technologies, 2024  
 
 ---
 
@@ -65,7 +68,4 @@
   - Highlighted trends, outliers, and KPIs like revenue growth, customer retention, and operational efficiency.  
   - Implemented DAX measures for calculations, including cumulative totals, YoY growth, and profitability analysis.  
   - Enabled user-friendly navigation with drill-throughs, filters, and slicers for personalized user experience.  
-- **Tools Used:** Power BI Desktop, DAX, and Excel for data preprocessing.  
-- **Impact:** Empowered stakeholders to make data-driven decisions, resulting in [state measurable impact, e.g., 20% improved efficiency in KPI tracking or increased reporting accuracy].  
-
----
+- **Tools Used:** Power BI Desktop, DAX, and Excel for 
