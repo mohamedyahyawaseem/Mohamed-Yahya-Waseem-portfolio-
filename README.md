@@ -96,4 +96,4 @@
   Trees Academy, 2023  
 
 - 📜 *Certified Data Analyst Course*  
-  Besant Technologies, 2024  
+  Besant Technologies, 2023 
