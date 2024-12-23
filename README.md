@@ -35,16 +35,15 @@
 
 ---
 
-## 🎓 Education  
+## 💼 Experience  
 
-- 🎓 *Bachelor of Engineering (Agricultural Engineering)*  
-  Sethu Institute of Technology, 2023  
-
-- 🖥 *Diploma in Computer Applications*  
-  Trees Academy, 2023  
-
-- 📜 *Certified Data Analyst Course*  
-  Besant Technologies, 2024  
+### Data Analyst Intern  
+📅 **Jan 2023 – Dec 2023**  
+🏢 **RR IT Solutions**  
+- Utilized **SQL**, **Power BI**, and **Excel** to process and analyze datasets.  
+- Developed dynamic and visually engaging dashboards to drive data-driven decisions.  
+- Collaborated with cross-functional teams to improve **reporting accuracy** and streamline **process optimization**.  
+- Conducted advanced **DAX** queries and data modeling to extract actionable insights.  
 
 ---
 
@@ -68,4 +67,33 @@
   - Highlighted trends, outliers, and KPIs like revenue growth, customer retention, and operational efficiency.  
   - Implemented DAX measures for calculations, including cumulative totals, YoY growth, and profitability analysis.  
   - Enabled user-friendly navigation with drill-throughs, filters, and slicers for personalized user experience.  
-- **Tools Used:** Power BI Desktop, DAX, and Excel for 
+- **Tools Used:** Power BI Desktop, DAX, and Excel.  
+
+### 💼 *Job Role and Salary Dashboard*  
+- **Description:** Designed an interactive dashboard to analyze and visualize **job roles**, **salary trends**, and market insights.  
+- **Key Features:**  
+  - Leveraged **Power BI** and **Advanced Excel** to create rich visualizations, including bar charts, scatter plots, and heatmaps.  
+  - Incorporated dynamic filters, slicers, and KPIs for real-time insights.  
+  - Highlighted industry benchmarks, geographic comparisons, and experience-level trends.  
+- **Impact:** Enabled professionals, employers, and researchers to make informed, data-driven decisions.  
+
+### 🛒 *E-Commerce Data Analytics Project*  
+- **Description:** Analyzed an e-commerce dataset using **Python** and **Power BI** to identify trends and improve profitability.  
+- **Key Features:**  
+  - Performed data cleaning and feature engineering using **pandas**.  
+  - Created new metrics such as **Unit Profit** and **Discount Percent**, and optimized the dataset for time-series analysis.  
+  - Designed an interactive **Power BI dashboard** with drill-throughs and basic Python visualizations.  
+- **Impact:** Delivered actionable insights into shipment efficiency, sales trends, and customer behavior.  
+
+---
+
+## 🎓 Education  
+
+- 🎓 *Bachelor of Engineering (Agricultural Engineering)*  
+  Sethu Institute of Technology, 2023  
+
+- 🖥 *Diploma in Computer Applications*  
+  Trees Academy, 2023  
+
+- 📜 *Certified Data Analyst Course*  
+  Besant Technologies, 2024  
