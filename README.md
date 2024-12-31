@@ -56,7 +56,45 @@
   - 💳 Supported multi-currency payments and enabled automated broker debit transactions.  
   - 📑 Automated the generation of key documents like policy schedules, credit notes, and debit notes.  
   - 🗄 Created and normalized complex tables for storing vehicle details and user information.  
-- **Impact:** Improved operational efficiency by automating manual processes, ensuring accuracy in calculations, and providing a user-friendly interface for both insurers and brokers.  
+- **Impact:** Improved operational efficiency by automating manual processes, ensuring accuracy in calculations, and providing a user-friendly interface for both insurers and brokers.
+
+  ### 🌍 *Agriculture Impact by Climate on Global Level*  
+- **Description:** Analyzed the global impact of climate change on agricultural production using **Python** and **Power BI**.  
+- **Key Features:**  
+  - Conducted in-depth analysis using climate and agricultural datasets.  
+  - Visualized trends in crop yields, geographic patterns, and climate-related risks.  
+  - Designed an interactive dashboard with drill-throughs and slicers for exploring country-level and global insights.  
+- **Impact:** Provided actionable insights into mitigating climate risks and improving agricultural efficiency.
+  
+
+ ### 💼 *Job Role and Salary Dashboard*  
+- **Description:** Designed an interactive dashboard to analyze and visualize **job roles**, **salary trends**, and market insights.  
+- **Key Features:**  
+  - Leveraged **Power BI** and **Advanced Excel** to create rich visualizations, including bar charts, scatter plots, and heatmaps.  
+  - Incorporated dynamic filters, slicers, and KPIs for real-time insights.  
+  - Highlighted industry benchmarks, geographic comparisons, and experience-level trends.  
+- **Impact:** Enabled professionals, employers, and researchers to make informed, data-driven decisions.
+
+  
+
+  ### 📈 *Udemy Course Analysis Dashboard*  
+- **Description:** Developed a dashboard to analyze Udemy course data, providing insights into course popularity, instructor performance, and learner engagement.  
+- **Key Features:**  
+  - Integrated multiple datasets to build a comprehensive data model.  
+  - Highlighted trends such as top-performing courses, instructor ratings, and learner preferences.  
+  - Designed custom visuals using **Power BI** and performed advanced data transformations.  
+- **Tools Used:** Power BI, Excel, DAX.
+  
+
+  ### 🛒 *E-Commerce Data Analytics Project*  
+- **Description:** Analyzed an e-commerce dataset using **Python** and **Power BI** to identify trends and improve profitability.  
+- **Key Features:**  
+  - Performed data cleaning and feature engineering using **pandas**.  
+  - Created new metrics such as **Unit Profit** and **Discount Percent**, and optimized the dataset for time-series analysis.  
+  - Designed an interactive **Power BI dashboard** with drill-throughs and basic Python visualizations.  
+- **Impact:** Delivered actionable insights into shipment efficiency, sales trends, and customer behavior.
+
+  
 
 ### 📊 *Zepto Sales and Performance Dashboard*  
 - **Description:** Designed and developed an interactive Power BI dashboard to analyze key performance metrics and business insights.  
@@ -68,37 +106,6 @@
   - Enabled user-friendly navigation with drill-throughs, filters, and slicers for personalized user experience.  
 - **Tools Used:** Power BI Desktop, DAX, and Excel.  
 
-### 💼 *Job Role and Salary Dashboard*  
-- **Description:** Designed an interactive dashboard to analyze and visualize **job roles**, **salary trends**, and market insights.  
-- **Key Features:**  
-  - Leveraged **Power BI** and **Advanced Excel** to create rich visualizations, including bar charts, scatter plots, and heatmaps.  
-  - Incorporated dynamic filters, slicers, and KPIs for real-time insights.  
-  - Highlighted industry benchmarks, geographic comparisons, and experience-level trends.  
-- **Impact:** Enabled professionals, employers, and researchers to make informed, data-driven decisions.  
-
-### 🛒 *E-Commerce Data Analytics Project*  
-- **Description:** Analyzed an e-commerce dataset using **Python** and **Power BI** to identify trends and improve profitability.  
-- **Key Features:**  
-  - Performed data cleaning and feature engineering using **pandas**.  
-  - Created new metrics such as **Unit Profit** and **Discount Percent**, and optimized the dataset for time-series analysis.  
-  - Designed an interactive **Power BI dashboard** with drill-throughs and basic Python visualizations.  
-- **Impact:** Delivered actionable insights into shipment efficiency, sales trends, and customer behavior.  
-
-### 📈 *Udemy Course Analysis Dashboard*  
-- **Description:** Developed a dashboard to analyze Udemy course data, providing insights into course popularity, instructor performance, and learner engagement.  
-- **Key Features:**  
-  - Integrated multiple datasets to build a comprehensive data model.  
-  - Highlighted trends such as top-performing courses, instructor ratings, and learner preferences.  
-  - Designed custom visuals using **Power BI** and performed advanced data transformations.  
-- **Tools Used:** Power BI, Excel, DAX.  
-
-### 🌍 *Agriculture Impact by Climate on Global Level*  
-- **Description:** Analyzed the global impact of climate change on agricultural production using **Python** and **Power BI**.  
-- **Key Features:**  
-  - Conducted in-depth analysis using climate and agricultural datasets.  
-  - Visualized trends in crop yields, geographic patterns, and climate-related risks.  
-  - Designed an interactive dashboard with drill-throughs and slicers for exploring country-level and global insights.  
-- **Impact:** Provided actionable insights into mitigating climate risks and improving agricultural efficiency.  
 
 ---
 
