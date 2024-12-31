@@ -31,7 +31,6 @@
 ![SQL Developer](https://img.shields.io/badge/-SQL%20Developer-4479A1?logo=Oracle&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=Power-BI&logoColor=black)  
 ![Excel](https://img.shields.io/badge/-Advanced%20Excel-217346?logo=Microsoft-Excel&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white)  
 
 ---
 
@@ -85,6 +84,22 @@
   - Designed an interactive **Power BI dashboard** with drill-throughs and basic Python visualizations.  
 - **Impact:** Delivered actionable insights into shipment efficiency, sales trends, and customer behavior.  
 
+### 📈 *Udemy Course Analysis Dashboard*  
+- **Description:** Developed a dashboard to analyze Udemy course data, providing insights into course popularity, instructor performance, and learner engagement.  
+- **Key Features:**  
+  - Integrated multiple datasets to build a comprehensive data model.  
+  - Highlighted trends such as top-performing courses, instructor ratings, and learner preferences.  
+  - Designed custom visuals using **Power BI** and performed advanced data transformations.  
+- **Tools Used:** Power BI, Excel, DAX.  
+
+### 🌍 *Agriculture Impact by Climate on Global Level*  
+- **Description:** Analyzed the global impact of climate change on agricultural production using **Python** and **Power BI**.  
+- **Key Features:**  
+  - Conducted in-depth analysis using climate and agricultural datasets.  
+  - Visualized trends in crop yields, geographic patterns, and climate-related risks.  
+  - Designed an interactive dashboard with drill-throughs and slicers for exploring country-level and global insights.  
+- **Impact:** Provided actionable insights into mitigating climate risks and improving agricultural efficiency.  
+
 ---
 
 ## 🎓 Education  
@@ -96,4 +111,4 @@
   Trees Academy, 2023  
 
 - 📜 *Certified Data Analyst Course*  
-  Besant Technologies, 2023 
+  Besant Technologies, 2023  
