@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohamed Yahya Waseem M  
 
-🚀 *Oracle SQL Developer* | *Data Analyst* | *Dashboard Creator*  
+🚀 *Oracle SQL Developer* | *Data Analyst* | *Power BI Developer*  
 🎯 Passionate about crafting data-driven solutions and designing impactful dashboards to empower business decisions.  
 
 ---
