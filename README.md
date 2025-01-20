@@ -37,7 +37,7 @@
 ## 💼 Experience  
 
 ### Data Analyst Intern  
-📅 **Jan 2023 – Dec 2023**  
+📅 **Jan 2024 – Dec 2024**  
 🏢 **RR IT Solutions**  
 - Utilized **SQL**, **Power BI**, and **Excel** to process and analyze datasets.  
 - Developed dynamic and visually engaging dashboards to drive data-driven decisions.  
